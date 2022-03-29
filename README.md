@@ -1,7 +1,11 @@
 # Rcalculator V2
 
+Rcalculator is a tool created purely to help [RPLANET](https://rplanet.io/) users calculate their earnings based on how much mining power they generate on the RPLANET network.
+
 This project was a work in progress migrating over to the React framework from a previous project written in basic HTML/CSS.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 # API
 
