@@ -1,5 +1,5 @@
 {
-  "http://{somadevv}.github.io/{Rcalculator-v2}",
+  "homepage": "http://{somadevv}.github.io/{Rcalculator-v2}",
   "name": "live-calc-react",
   "version": "0.1.0",
   "private": true,
